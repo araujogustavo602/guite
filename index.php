@@ -30,7 +30,8 @@ if (isset($_GET["Dolar"]))
 
 {
 
-$dolar = $_GET["Dolar"] * 5.01;
+$dolar = $_GET["Dolar"] * 
+;
 
 
 
